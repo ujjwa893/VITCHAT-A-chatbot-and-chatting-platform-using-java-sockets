@@ -1,4 +1,5 @@
 # VITCHAT-A-chatbot-and-chatting-platform-using-java-sockets
+This is our project for the data communication networks class
  ## Objective 
  
  A socket is the one end-point of a two-way communication link between two programs running over the network. Running over the network means that the programs run on different computers, usually referred as the local and the remote computers. 
